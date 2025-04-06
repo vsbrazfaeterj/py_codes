@@ -3,7 +3,8 @@ class Conversor_ps()
    
      self.pca = 100000
      self.psi = 14,5038
-  
-  def converter_psiXbar():
+   
+  def converter_barXpsi(self, bar):
      
-     
+     result = bar * self.psi 
+     return result
