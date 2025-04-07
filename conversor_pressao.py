@@ -19,5 +19,6 @@ class Conversor_ps:
 
 conv = Conversor_ps()
 
+#teste
 print(conv.converter_barXpsi(2), "psi")
 print(conv.converter_psiXbar(14.5038 * 2))

@@ -33,6 +33,7 @@ class Conversora:
     
 conv = Conversora()
 
+#teste
 print(conv.conversor_metrosXcentimetros(4.2) ,"centimetros")
 print(conv.conversor_centimetrosXmetros(200) ,"metros")
 print(conv.conversor_centimetrosXpes(4), "pés")
